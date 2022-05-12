@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kevindudhat01
-- 🌱 I’m currently learning iOS Developing
+- 🌱 iOS Developer
 
 <!---
 kevindudhat01/kevindudhat01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
